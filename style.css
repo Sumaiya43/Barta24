@@ -390,6 +390,11 @@ p
     margin-bottom: 50px;
     margin-left: 5px;
 }
+.shaad-post-title h6:hover
+{
+    color: #f4c900 !important;
+}
+ 
 
 .everything .everything-post-title
 {
@@ -549,7 +554,8 @@ p
 p {
      font-size: 20px !important;
 };
- 
+
+
 
 }
 
